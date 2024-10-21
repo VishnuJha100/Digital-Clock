@@ -7,8 +7,6 @@ Digital Clock
 <br>
 Real-time display of the current time
 <br>
-Customizable clock face and background
-<br>
 Easy-to-read digital font
 <br>
 Responsive design for different screen sizes
